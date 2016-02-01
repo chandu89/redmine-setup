@@ -36,4 +36,5 @@
 /vendor/cache
 *.rbc
 
+/.bundle
 
