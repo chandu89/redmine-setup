@@ -13,7 +13,6 @@
 development:
   adapter: postgresql
   database: redmine_development
-  host: localhost
   pool: 5
   username: postgres
   password: postgres
