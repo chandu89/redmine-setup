@@ -36,7 +36,4 @@
 /vendor/cache
 *.rbc
 
-/.bundle
-/Gemfile.lock
-/Gemfile.local
 
